@@ -100,7 +100,7 @@ function draw() {
         gameState = END;
     }
     
-    if(score>150){
+    if(score>750){
     alert("A winner is you!")
   }
     
